@@ -1,0 +1,19 @@
+# this "#" lets you comment.
+
+# float
+price = 5.99
+
+#int
+age = 35
+
+#bool
+my day = true
+
+#str
+print(Big Woof!)
+
+
+print(type(price))
+print(type(age))
+print(type(is_here))
+print(type(name))
